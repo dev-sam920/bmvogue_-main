@@ -36,9 +36,9 @@ export default function Footer() {
           <div>
             <h4 className="text-xs uppercase tracking-[0.3em] text-white/80 mb-8">Contact</h4>
             <ul className="space-y-4">
-              <li className="text-white/40 text-sm">Lagos, Nigeria</li>
+              <li className="text-white/40 text-sm">ibadan, Nigeria</li>
               <li className="text-white/40 text-sm">atelier@bmvogue.com</li>
-              <li className="text-white/40 text-sm">+234 (0) 800 BMVOGUE</li>
+              <li className="text-white/40 text-sm">+234 806 970 2926</li>
             </ul>
           </div>
         </div>
